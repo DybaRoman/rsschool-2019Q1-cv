@@ -4,16 +4,16 @@
 
 **Contacts:** *dybaroman@gmail.com*
 
-**Summary:** Мне 29 лет. До недавнего времени работал учителем математики. В какой-то момент мне показалось, что этот путь ведет меня в неправильном направлении. Так что я решил поменять профессию. Исходя из полученного высшего образования (математический факультет) и имеющихся способностей, была выбрана профессия фронт-энд разработчика. И у меня есть для ее освоения все необходимое:   
+**Summary:** I am 29 years old. Until recently, i worked as a math teacher. At some point it seemed to me that this path leads to the wrong direction. So i decided to change the situation and chose the profession of front-end developer, based on my education and my abilities. And i have everything i need to master it:   
 
- - желание получать знания и навыки (из любых источников, даже нелегальных, шутка)
+ - a desire to gain knowledge and skills (from any sources, even illegal ones, joke)
 
- - свободное время (для обучения новой профессии я отказался от работы с полной занятостью)
+ - free time (for mastering a new profession i refused to work full-time)
 
- - привычка к самооборазованию (главное, чему учат педагога - это учиться)
+ - habit of self-education (the main thing that a teacher is taught  is  *to learn*)
 
 
-**Skills:** на текущий момент обладаю базовыми навыками *HTML, CSS, JavaScript, Git*. 
+**Skills:** basic skills in *HTML, CSS, JavaScript, Git*. 
 
 
 **Aducation:** Francisk Scorina Gomel State University. Faculty of Mathematics and Programming Thechnologies.
