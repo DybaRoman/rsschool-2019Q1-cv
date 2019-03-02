@@ -13,7 +13,7 @@
  - habit of self-education (the main thing that a teacher is taught  is  *to learn*)
 
 
-**Skills:** basic skills in *HTML, CSS, JavaScript, Git*. 
+**Skills:** basic skills in *HTML&CSS* (https://www.codecademy.com/users/romansmaga1010542582/achievements     https://htmlacademy.ru/profile/id999165/achievements)*, JavaScript, Git*. 
 
 
 **Aducation:** Francisk Scorina Gomel State University. Faculty of Mathematics and Programming Thechnologies.
