@@ -11,7 +11,7 @@
 * habit of self-education (the main thing that a teacher is taught  is  *to learn*)
 
 
-**Skills:** basic skills in *HTML&CSS* (https://www.codecademy.com/users/romansmaga1010542582/achievements     https://htmlacademy.ru/profile/id999165/achievements)*, JavaScript, Git*. 
+**Skills:** basic skills in *HTML&CSS* (codecademy/achievements](https://www.codecademy.com/users/romansmaga1010542582/achievements)     [htmlacademy/achievements](https://htmlacademy.ru/profile/id999165/achievements))*, JavaScript, Git*. 
 
 
 **Aducation:** Francisk Scorina Gomel State University. Faculty of Mathematics and Programming Thechnologies.
@@ -19,4 +19,4 @@
 
 **English level:** When it comes to reading or listening to English, i show B1 or even better. But when I need to say something, my level is A1. So total on average i have A2 :confused:. Well, without jokes, my level is between A1 and A2.
 
-Hear link to my last test: https://examinator.lab.epam.com/External/673b2fe98f725236e5f22797dc50ca8856c9cbca45fd82a9b67270f6026071cf6082093a7a57ac3185844c5a09e54dbb7d332c46c5081d39308f0d3f20f9a8a7
+Hear link to my last test: [examinator.lab.epam.com](https://examinator.lab.epam.com/External/673b2fe98f725236e5f22797dc50ca8856c9cbca45fd82a9b67270f6026071cf6082093a7a57ac3185844c5a09e54dbb7d332c46c5081d39308f0d3f20f9a8a7)
