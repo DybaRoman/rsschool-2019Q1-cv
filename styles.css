@@ -1,13 +1,4 @@
-main {
-  
-  position: relative;
-}
-
-.summary {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, 50%);
-
+.resume {
   max-width: 1024px;
+  margin: 0 auto;
 }
